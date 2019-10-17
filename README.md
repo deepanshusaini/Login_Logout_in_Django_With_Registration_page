@@ -1,2 +1,2 @@
 # Registration-Page
-Django Registration Page!
+Sample Django Registration Page!
